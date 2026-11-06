@@ -1,7 +1,7 @@
 # CORE-ADR-004: Модель данных помещения и монтажа
 
 **Проект:** KIP_Core
-**Статус:** Принято
+**Статус:** см. `docs/decisions/CORE-ADR-REGISTRY.md`
 **Дата:** 04.11.2026
 **Связанные документы:** `docs/research/CORE-RSH-004-montage-data.md`
 (исследование), `docs/decisions/CORE-ADR-002-instrument-model.md`

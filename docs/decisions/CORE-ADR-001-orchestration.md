@@ -1,7 +1,7 @@
 # CORE-ADR-001: Модель оркестрации и роль человека
 
 **Проект:** KIP_Core
-**Статус:** Принято
+**Статус:** см. `docs/decisions/CORE-ADR-REGISTRY.md`
 **Дата:** 04.11.2026
 **Связанные документы:** `docs/research/CORE-RSH-001-orchestration-patterns.md`
 (исследование), `docs/handover.md` (процесс), `README.md` (принципы)

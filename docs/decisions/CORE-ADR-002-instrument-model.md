@@ -1,7 +1,7 @@
 # CORE-ADR-002: Модель данных прибора
 
 **Проект:** KIP_Core
-**Статус:** Принято
+**Статус:** см. `docs/decisions/CORE-ADR-REGISTRY.md`
 **Дата:** 04.11.2026
 **Связанные документы:** `docs/research/CORE-RSH-002-instrument-data-model.md`
 (исследование предметной области), `docs/research/CORE-RSH-003-cable-model.md`
